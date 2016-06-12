@@ -78,7 +78,7 @@ var util = require('util');
 				
 				console.log(result.toString());
 				
-				intermediarySpeech = "<speak>The 4-quarter moving-average for the U 3 unemployment rate is " + result[0].toString() + " percent and the 4-quarter moving-average for the U 6 unemployment rate is " + result[1].toString() + " percent. ";		
+				intermediarySpeech = "<speak>The 4-quarter moving-average for the U 3 unemployment rate is " + result[0].toString() + " percent. The 4-quarter moving-average for the U 6 unemployment rate is " + result[1].toString() + " percent. ";	
 				
 			}
 			
