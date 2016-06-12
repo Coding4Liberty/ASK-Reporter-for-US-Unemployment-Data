@@ -1,0 +1,13 @@
+GetNewUnemploymentIntent to give me the figures
+GetNewUnemploymentIntent to give me the latest figures
+GetNewUnemploymentIntent to give me the latest values
+GetNewUnemploymentIntent for the latest values
+GetNewUnemploymentIntent what are the latest figures
+GetNewUnemploymentIntent for the latest unemployment figures
+GetNewUnemploymentIntent to tell me the unemployment rates
+GetNewUnemploymentIntent for the latest figures
+GetNewUnemploymentIntent for the figures
+GetNewUnemploymentIntent for the values
+GetNewUnemploymentIntent what are the unemployment rates
+GetNewUnemploymentIntent what are the latest rates
+GetNewUnemploymentIntent what are the rates
