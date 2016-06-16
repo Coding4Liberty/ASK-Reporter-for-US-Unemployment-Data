@@ -11,27 +11,27 @@
 Example phrases to open app:
 
 ```
-Alexa, open U.S unemployment.
-Alexa, launch U.S unemployment.
-Alexa, start U.S unemployment.
+Alexa, open you ess unemployment.
+Alexa, launch you ess unemployment.
+Alexa, start you ess unemployment.
 ```
 
 ## Get the current U.S federal debt figure
 
-Example phrases to read the U.S unemployment rates from the BLS to you:
+Example phrases to read the you ess unemployment rates from the BLS to you:
 
 ```
-Alexa, ask U.S unemployment what are the latest figures?
-Alexa, ask U.S unemployment what are the unmployment rates?
-Alexa, ask U.S unemployment what are the rates?
+Alexa, ask you ess unemployment what are the latest figures?
+Alexa, ask you ess unemployment what are the unmployment rates?
+Alexa, ask you ess unemployment what are the rates?
 
-Alexa, ask U.S unemployment for the latest figures.
-Alexa, ask U.S unemployment for the figures.
-Alexa, ask U.S unemployment for the latest unemployment figures
+Alexa, ask you ess unemployment for the latest figures.
+Alexa, ask you ess unemployment for the figures.
+Alexa, ask you ess unemployment for the latest unemployment figures
 
-Alexa, tell U.S unemployment to give me the latest values.
+Alexa, tell you ess unemployment to give me the latest values.
 
-Alexa, ask U.S unemployment to tell me the unemployment rates.
+Alexa, ask you ess unemployment to tell me the unemployment rates.
 ```
 
 ## Get help
@@ -39,7 +39,7 @@ Alexa, ask U.S unemployment to tell me the unemployment rates.
 Example phrases for help: 
 
 ```
-Alexa, ask U.S unemployment for help. 
+Alexa, ask you ess unemployment for help. 
 ```
 
 ## Quit
